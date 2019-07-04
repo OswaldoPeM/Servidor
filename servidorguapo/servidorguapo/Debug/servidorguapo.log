@@ -1,0 +1,7 @@
+﻿  Servidor.cpp
+c:\users\oswal\source\repos\servidorguapo\servidorguapo\servidor.cpp(127): warning C4018: '<': no coinciden signed/unsigned
+  Source.cpp
+c:\users\oswal\source\repos\servidorguapo\servidorguapo\source.cpp(12): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+c:\users\oswal\source\repos\servidorguapo\servidorguapo\source.cpp(125): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+  servidorguapo.vcxproj -> C:\Users\Oswal\source\repos\servidorguapo\Debug\servidorguapo.exe
